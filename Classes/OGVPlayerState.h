@@ -7,8 +7,10 @@
 //
 //
 
-@class OGVPlayerState;
+#import "OGVInputStream.h"
 
+@class OGVPlayerState;
+@class OGVVideoBuffer;
 
 /**
  * Delegate messages are sent on the main thread dispatch queue, unless

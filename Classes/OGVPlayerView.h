@@ -8,7 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
+#import "OGVPlayerState.h"
+
 @class OGVPlayerView;
+@class OGVInputStream;
 
 /**
  * Delegate methods are all called on the main thread.

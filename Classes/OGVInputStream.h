@@ -7,6 +7,7 @@
 //
 
 @class OGVInputStream;
+@class OGVMediaType;
 
 @protocol OGVInputStreamDelegate <NSObject>
 
